@@ -1,6 +1,6 @@
 [package]
 name = "rs-svc"
-version = "0.1.0"
+version = "0.1.1"
 authors = [
     "intfish123 <intfish@qq.com>",
 ]
