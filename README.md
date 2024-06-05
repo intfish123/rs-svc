@@ -1,5 +1,6 @@
 # rs-svc
-Rust service wrapper that run on Linux
+Rust service wrapper that run on Linux.
+See more: [Crate Documentation](https://docs.rs/rs-svc)
 
 ## Examples
 See `examples`
