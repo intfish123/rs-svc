@@ -1,9 +1,19 @@
 [package]
 name = "rs-svc"
 version = "0.1.0"
+authors = [
+    "intfish123 <intfish@qq.com>",
+]
+description = "Rust service wrapper that run on Linux"
+documentation = "https://docs.rs/rs-svc"
+repository = "https://github.com/intfish123/rs-svc"
+readme = "README.md"
+keywords = ["signal", "unix", "daemon"]
+license = "MIT"
 edition = "2021"
 
-# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+[badges]
+maintenance = { status = "actively-developed" }
 
 [dependencies]
 anyhow="1.0"
